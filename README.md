@@ -15,3 +15,8 @@
 - DOM
     - Real DOM: refresh whole page
     - Virtual DOM: 
+
+
+# Setup
+## Tailwind config
+- Bring color and typography, fonsize to tailwind.config
